@@ -5,7 +5,7 @@ Button stop_alarm_btn(5);
 const unsigned int ENERGIZE_PIN             = 10;
 const unsigned int ALARM_PIN                = 9;
 const unsigned int LED_PIN                  = 8;
-const unsigned int LOW_WATER_COUNTS         = 2500;
+const unsigned int LOW_WATER_COUNTS         = 1000;
 const unsigned int WATER_PRESENT_LOOP_MS    = 30000;    // 30 second interval while water detected
 
 typedef enum
