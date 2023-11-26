@@ -59,7 +59,7 @@ void loop()
 {
     energize();
     delay(1);
-    float a0_counts = analogRead(A0);
+    unsigned int a0_counts = analogRead(A0);
     denergize();
 
     switch (state)
