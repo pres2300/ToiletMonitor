@@ -1,13 +1,3 @@
-# Toilet Monitor
-
-A simple Toilet Monitor to check that the toilet reservoir fills after a flush.
-
-## Dependencies
-
-[Button](https://github.com/madleech/Button)
-
-## License
-
 MIT License
 
 Copyright (c) 2023 Jacob Preston
